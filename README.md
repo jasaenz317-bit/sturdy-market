@@ -41,13 +41,10 @@ Notes
 
 Screenshots
 
-- `Financial_Project_Screenshot1` — shown below:
-
-![Financial Project Screenshot 1](Financial_Project_Screenshot1.jpeg)
-
 - `Financial_Project_Screenshot2` — shown below:
 
 ![Financial Project Screenshot 2](Financial_Project_Screenshot2.jpeg)
 
 License
 - MIT — see `LICENSE`.
+
