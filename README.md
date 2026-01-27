@@ -1,7 +1,7 @@
 # Financial Data Project
 
 Short description
-- Utility scaffold for collecting, processing, and visualizing financial time-series data.
+- Utility interface for collecting, processing, and visualizing financial time-series data.
 - Includes a Streamlit app, data helpers, and simple tests.
 
 What this contains
@@ -12,7 +12,7 @@ What this contains
 
 Quick start
 
-1. (Optional) Create and activate a virtual environment:
+1. Create and activate a virtual environment:
 
 ```bash
 python -m venv .venv
@@ -44,7 +44,3 @@ Screenshots
 - `Financial_Project_Screenshot2` — shown below:
 
 ![Financial Project Screenshot 2](Financial_Project_Screenshot2.jpeg)
-
-License
-- MIT — see `LICENSE`.
-
